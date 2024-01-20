@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d440f426","path":"/tools/","title":"工具箱","lang":"zh-CN","frontmatter":{"icon":"toolbox","date":"2023-01-01T00:00:00.000Z"},"headers":[],"git":{"createdTime":1705773585000,"updatedTime":1705773585000,"contributors":[{"name":"fuliucansheng","email":"fuliucansheng@gmail.com","commits":1}]},"filePathRelative":"tools/README.md"}');export{t as data};
